@@ -36,6 +36,9 @@ TutorialsPoint_Easy_Read is a chrome extension to read tutorials from TutorialsP
 <li>Go to <a href="http://www.tutorialspoint.com/">Tutorialspoint website</a> and select any tutorial.</li>
 <li>Toggle the sidebar using <b>Hide Sidebar</b> and <b>Show Sidebar</b> button.</li>
 </ol>
-
+<hr>
+<b>Watch installation and demonstration process in <a href="http://www.youtube.com/watch?v=ergwNaSeWuk">Youtube link here</a>.</b>
+[![TutorialsPoint_Easy_Read Youtube Demo](http://img.youtube.com/vi/ergwNaSeWuk/0.jpg)](http://www.youtube.com/watch?v=ergwNaSeWuk)
+<hr>
 <h3>Enjoy!</h3>
 <p>If you have any suggestion, please send a message to <a href="https://www.facebook.com/ars.shovon">https://www.facebook.com/ars.shovon</a></p>
