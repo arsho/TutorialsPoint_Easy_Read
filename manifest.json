@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,  
+  "name": "TutorialsPoint_Easy_Read",
+  "version": "1.0",
+  "description": "Read tutorials from TutorialsPoint easily.",  
+  "icons"				: { 
+		"16"			: "icon16.png",
+        "48"			: "icon48.png",
+        "128"			: "icon128.png" 
+  },
+  "browser_action"	: {
+		"default_title"	: "TutorialsPoint_Easy_Read / datamate(arsho)",      // optional; shown in tooltip
+		"default_icon"	: "icon16.png" 
+	},  
+  "author": "Ahmedur Rahman Shovon",  
+  "content_scripts": [{
+      "matches": ["http://www.tutorialspoint.com/*/*"],
+      "js": ["bg.js"]
+  }],
+  "web_accessible_resources": ["app_script.js"]
+}
