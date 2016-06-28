@@ -20,12 +20,12 @@ TutorialsPoint_Easy_Read is a chrome extension to read tutorials from TutorialsP
 <ol>
 <li>Download <a href="https://github.com/arsho/TutorialsPoint_Easy_Read/archive/master.zip">TutorialsPoint_Easy_Read Zip file</a>.</li>
 <li>Extract the zip file.</li>
-<li>Place the <b>TutorialsPoint_Easy_Read</b> folder in any desired location.</li>
+<li>Place the <b>TutorialsPoint_Easy_Read-master</b> folder in any desired location.</li>
 <li>Open Chrome.</li>
 <li>Go to <b>Settings>Extensions</b>.</li>
 <li>Make sure that <b>Developer mode</b> is tick marked.</li>
 <li>Click on <b>Load unpacked extension</b>.</li>
-<li>Select the <b>TutorialsPoint_Easy_Read</b> folder you have placed earlier.</li>
+<li>Select the <b>TutorialsPoint_Easy_Read-master</b> folder you have placed earlier.</li>
 <li><b>Done!</b></li>
 </ol>
 
