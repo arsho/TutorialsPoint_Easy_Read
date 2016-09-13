@@ -14,7 +14,7 @@
 	},  
   "author": "Ahmedur Rahman Shovon",  
   "content_scripts": [{
-      "matches": ["http://www.tutorialspoint.com/*/*"],
+      "matches": ["http://www.tutorialspoint.com/*/*","https://www.tutorialspoint.com/*/*"],
       "js": ["bg.js"]
   }],
   "web_accessible_resources": ["app_script.js"]
