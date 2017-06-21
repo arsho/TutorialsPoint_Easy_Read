@@ -7,12 +7,13 @@ TutorialsPoint_Easy_Read is a chrome extension to read tutorials from TutorialsP
  </p>
 <hr>
 <b>Tutorials Simplified using TutorialsPoint_Easy_Read</b>
+
 ![alt TutorialsPoint_Easy_Read Demo1](https://raw.githubusercontent.com/arsho/TutorialsPoint_Easy_Read/master/TutorialsPoint_Easy_Read_screenshot1.png)
-<hr>
-<hr>
+
 <b>Tutorials with sidebar using TutorialsPoint_Easy_Read</b>
+
 ![alt TutorialsPoint_Easy_Read Demo2](https://raw.githubusercontent.com/arsho/TutorialsPoint_Easy_Read/master/TutorialsPoint_Easy_Read_screenshot2.png)
-<hr>
+
 
 <h3>
 <a id="installation" class="anchor" href="#installation" aria-hidden="true"><span class="octicon octicon-link"></span></a>Installation:
@@ -38,7 +39,8 @@ TutorialsPoint_Easy_Read is a chrome extension to read tutorials from TutorialsP
 </ol>
 <hr>
 <b>Watch installation and demonstration process in <a href="http://www.youtube.com/watch?v=ergwNaSeWuk">Youtube link here</a>.</b>
+
 [![TutorialsPoint_Easy_Read Youtube Demo](http://img.youtube.com/vi/ergwNaSeWuk/0.jpg)](http://www.youtube.com/watch?v=ergwNaSeWuk)
-<hr>
+
 <h3>Enjoy!</h3>
 <p>If you have any suggestion, please send a message to <a href="https://www.facebook.com/ars.shovon">https://www.facebook.com/ars.shovon</a></p>
